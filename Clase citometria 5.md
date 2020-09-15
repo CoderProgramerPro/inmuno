@@ -155,26 +155,56 @@ se debe identificar la poblacion d einteres y evaluar el tipo de grafico para mo
 
 se deben descartar los dobletes, deben descartarse las celulas muertas escoger el tipo de gate 
 
+## Tipos de particulas
 
+Todas celulas o particulas transportadas hasta 0,5 micrones 
+paras las celulas de menor tamaño usar fluorocromo brillante que se pueda excitar con un laser de mayor pontencia
 
+Celulas raras o en bajo porcentaje se deben ser marcadas con fluorocromos fuertes
 
+## Que se puede marcar
 
+Proliferacion(dilucion de marcas), factores de transcripcion, apoptosis y viabilidad celular, marcadores de superficie, marcadores que ven la fragmentacion del material genetico e incluso
+se pueden usar marcadores de cuantificacion en sobrenadadante , plasma, suero o lisados de proteinas citoquinas, quimioquinas o protienas de señalizacion
 
+Tenemos que el citometro es un instrumento versatil en el area clinica se usa muy ampliamente se pueden analizar proteinas fluorescentes, neuronas dopaminergicas que tienen ciertos marcadores
+tambien se puede ver la biologia del desarrollo, plantas con cloroplastos, microbiologia
 
+Inmunologia es uno de los sectores que mas usa la citometria, se pueden evaluar muchos parametros intracelulares y extracelulares con esto tambien se pueden
+sortear celulas
 
+## Inmunologia
 
+Se puede marcar marcadores de superficie e intracelular hay transferencia adoptiva de Treg
 
+Primero se deben encontrar los marcadores de las celulas set
 
+Tambien el ciclo celular se puede evaluar en celulas vivas, tiene que ser medido el contenido del material genetico, en G0/G1 se ven peaks de contenido de DNA en G2 con menos celulas que entran en mitosis, la mayoria de celulas pueden estar en un cierto tiempo en cierta parte del ciclo celular
 
+Para proliferacion celular se agrega una traza fluorescente que entra a una celula y no sale, entonces va entrando a las celulas a medida que se van proliferando
+y estas van diluyendo la fluorescencia en el tiempo y se puede ver cuandos ciclos de mitosis 
 
+Con ioduro de propidio se pueden marcar las celulas muertas y en este caso PI se une al DNA doble hebra se intercala en los pares de bases, hay kits
+que permiten fijar celulas vivas y marcar las celulas muertas Live dead cell kit marca proteinas libres de la superficie, el live dead se une a la membraana y se entra a la celula muerta marcandola aun mas
 
+Las celulas tambien se pueden marcar integridad de membrana con 7AAD
 
+Anexina V/Apoptosis, se usa para ver celulas apoptoticas, anexina se une a fosfatidilserina de la membrana y ioduro de propidio se une al DNA, aqui se destacan
+4 poblaciones celulas necroticas (Solo IP positivas), celula apoptotica (Anexina y ioduro)
 
+tambien se pueden marcar potenciales de membrana de lamitocondria 
 
+existen tambien kits que permiten ver celulas vivas pero estas celulas son procariontes, son kits live dead
 
+las citoquinas se deben medir con perlas acopladas a anticuerpos y estas permiten que se pongan los antigenos y fluoresccan
 
+Tienen beads qu tienen anticuerpos que detectan las citoquinas y luego se agrega un anticuerpo secundario para marcar
 
+Las beads tienen distintos tamaños y distintas cantidades de anticuerpos en cada una para diferenciarlo 
+Entonces se pueden marcar varias citoquinas al mismo tiempo en una muestra de suero
 
+Para recuento celular se marcan las celulas vivas con beads que se cuentan en el citometro teniendo la cantidad exacta de lecturas
 
+Se pueden medir proteinas fluorescentes 
 
-
+como tambien tiene aplicaciones en neurociencia 
