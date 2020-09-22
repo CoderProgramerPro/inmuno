@@ -1,0 +1,134 @@
+INmuno blot e inmunofluorescencia
+------------
+
+# Anticuerpos
+
+La base de ambas tecnicas es el uso de anticuerpos, los anticuerpoes sonn proteinas formadas por una estructura como Y 2 cadenas pesadas y 2 cadenas livianas, ademas estan 
+unidas por enlaces sulfuro la cadena variable y la cadena pesada tienen funciones biologicas
+
+las porciones variables permiten unirse y detectar antigenos, una caracteristica es que entregan variabilidad, se unen a todo tipos de antigenos, ambientales, patogenos, 
+
+Los anticurpos tienen una union reversible, tienen union no covalente, se pueden unir y soltar con puentes de wandervals
+
+tienen constantes de disociacion son altamente especificos
+
+los anticuerpos reconocen un antigeno en particular, pero necesitan de una especie de calibracion de la region hipervariable de los vj 
+
+tienen avidez 
+
+reaccion cruzada y tambien hay una diversidad extremadamente alta
+
+Paratope y epítope, la porcion entre el antigeno que es reconocida se denomina epitope, parátope es una de las partes del ANTICUERPo que reconoce el anticuerpo
+
+Cada anticuerpo puede tener solo 1 parátope pero un antigeno puede tener varios epítopes, una celula plasmatica reconoce un epitope en especifico.
+
+Como se generan los anticuerpos monoclonales, la primera tecnica utilizada es la tecnica del hibridoma esta permite la produccion a gran escala
+Se mezcla una celula B con un mieloma canceroso, esto se hace agregando polietilen glicol formando una celula con 2 nucleos que se fusionaban y se generaba un hibridoma
+el cual tiene la capacidad de generar los anticuerpos (o las citoquinas) de forma masiva y constante
+
+El monoclonal viene de un clon, solo hay un tipo de anticuerpo producido en muchas copias , el policlonal son varios anticuerpos 
+que reconocen distintas zonas dentro del mismo antigeno, se reconocen varios rpítopes , tienen una intensidad de señal muy alta que puede servir de marcar pero a cambio pierde
+especificidad.-
+
+cuando se generan las celulas hibridas se seleccionan en un medio de cultivo selectivo HAT que son nucleotidos, entonces las celulas de mieloma son clonadas solo sobreviven las 
+que pueden sobrevivir en este medio, estos son los hibridomas, el hibridoma se puede poner en raton para generar altas cantidades
+o in vitro para generar anticuerpos mas puros pero en menor cantidades
+
+los anticuerpos se pueden generar con libreria, este se puede dividit en 4 etapas, en la segunda etapa se clona el gen que codifica para las inmunoglobulinas en 
+fagos los cuales pueden portar los genes y luego deben pasar por una parte de purificacion para saber que inmunoglobulinas son las que tienen mejores avidez, y depues
+clonarlas en plasmidos para producir masivamente, estos anticuerpos pueden ser ocupados luego como humanizados para usarlos en terapias 
+
+aplicaciones de mAb, detectar y cuantificar niveles de expresion de proteinas
+determinar localizacion
+marcar 
+terpias 
+
+Validacion de Ab la mitad de la plata de investigacion se queda en anticuerpos que no funcionan. Este dinero no se puede recuperar
+
+Como se valida un anticuerpo y porque puede ser inadecuado, hay psoibilidad que los anticuerpos reconozcan epitopes inespecificamente, esto es llamado crossreactividad, 
+esto se valida poniendo los anticuerpos con controlles negativos y positivos,
+
+otra posibildiad es que los lotes de una empresa puede haber variabilidad siempre haY que verificar el lote del anticuerpo
+
+A veces se compra un anticuerpo para westernblot por ejemplo, pero quizas este no funciona en otra tecnica esto puede ser porque de acuerdo a distintas tecnicas los antigenos 
+pueden tener estructuras diferentes, quizas en la forma natural se puede detectar pero en su estado denaturado no se puede reconocer o viceversa esto es causado por 
+la estructura del antigeno
+
+Siempre se debe validar su uso y considerar que los anticuerpos son producidos por lineas celulares estas opueden hacer modificaciones post traduccionales, los cuales quitan
+especificidad, es por esto que las tecnicas mas usadas son las de clonamiento para generar lineas que no realizan modificaciones
+
+
+Inmunoblot
+
+es una tecnica estandar que es adecuada para muchas aplicaciones en pequeña escala
+se puede dividir en varias etapas
+
+Preparacion de muestras
+Separacion por electroforesis
+Transferencia de las proteinas
+Identificaciones de las proteinas de interes
+
+se deben inhibir las proteinas necesarias para poder visualizar las proteinas, fosfatasas, proteasas etc para mantener nuestras proteinas de interes en buen estado
+
+la electroforesis en gel de poliacrilamida la ocncentracion de poliacrilamida debe ser inversamente proporcional al tamaño de la proteina miebtras mas pequeña, mas 
+concentracion de poliacrilamida ej protiena de 15 kD se debe generar un gel de por lo menos 15% ideal 20%
+
+se debe transfeerir las proteinas a una membrana que puede ser de PVDF o de Nitrocelulosa, 
+
+PVDF es una membrana hidrofobica mas sensible y mas durable, requiere alcohol de grado de analisis y tiene muchas inespecificidades
+
+Nitrocelulosa se usa para proteinas de bajo peso molecular y es de uso mas facil
+
+Diseño del western Blot 
+El porcentaje de la poliacrilamida va de acuerdo con el tamaño de proteína, debido a las caracteristicas de la proteina se debe adecuar el voltaje, la cantidad de
+proteina se debe estandarizar, subiendo desde 5, 10, 15, 20, 50, para saber que concentracion de proteina es ideal para poder determinar cuanta es la cantidad de proteina que
+se debe agregar para todos los siguientes experimentos y no generar un error en el analisis de datos posteriormente si se evaluan las concentraciones de proteina en
+varias condiciones
+
+![curvas]()
+
+**Errores comunes**
+
+![ErroresComunes]()
+
+cuando considerar un anticuerpo validado, presencia de una banda unica en el peso molecular,
+presencua de una banda unica en el peso molecular con bandas inespecificas al 20% de intentsidad
+
+PResencia de multiples bandas no pueden ser demostradas como isoformas o variantes de slipcing esta isoforma puede contener el epitope pero este puede ser de un 
+tamaño distinto
+
+cuando las presencia de bandas adicionales se demuestra que es por el anticuerpo secundario
+
+cuando el control de carga de un blot no es homogeneo y tiene mucha variabilidad y hay problemas en el blot, no deberian ser parte de un analisis
+
+inmunohistoquimica
+
+deteccion de proteinas in situ componentes celulares y extracelular por medio de ab especificos empleando sistemas de deteccion enzimaticos
+
+se puede hacer de manera indirecta con anticuerpos secundarios y terciarios o de manera directa con un ab primario marcado
+
+INmunohistoquimica se usa un componente incoloro que en un ambiente con una peroxidasa se reduce y forma un compuesto cafe, la validacion de la tecnica se hace evaluando
+la señal en distintos tipos de condiciones 
+
+seleccion del ab
+metodo de fijacion
+metodo de corte
+recuperacion antiegenica
+controles
+metodo directo
+inmuinoenzimatica o inmuino fluorescencia
+marcacion multiple
+
+
+
+
+
+
+
+
+
+
+
+
+
+
