@@ -108,7 +108,7 @@ deteccion de proteinas in situ componentes celulares y extracelular por medio de
 se puede hacer de manera indirecta con anticuerpos secundarios y terciarios o de manera directa con un ab primario marcado
 
 INmunohistoquimica se usa un componente incoloro que en un ambiente con una peroxidasa se reduce y forma un compuesto cafe, la validacion de la tecnica se hace evaluando
-la señal en distintos tipos de condiciones 
+la señal en distintos tipos de condiciones (Diaminobencidina)
 
 seleccion del ab
 metodo de fijacion
@@ -118,6 +118,38 @@ controles
 metodo directo
 inmuinoenzimatica o inmuino fluorescencia
 marcacion multiple
+
+Uno de los fijadores (Formalina - de tipo aldehido ) lo que hace es romper uniones covalentes dentro de la proteina, estos son puentes metilenicos esto altera la estructura de las proteinas y genera 
+enmascaramiento de las proteinas mientras mas tiempo de fijacion hay menos reactividad antigenica
+
+Recuperacion antigenica por calor (HIER)
+
+Se recupera la forma de la proteina con los enlaces covalentes que tiene y mejora segun el buffer utilizado ya sea acido basico o neutro, la hoja de datos de los ab
+dice que buffer y a que pH utilizarlos
+
+background inespecifico el anticuerpo puede marcar la membrana basal del tejido pero tambien puede marcar el borde de las celulas del tejido, se puede ver que sin el 
+Ab se genera coloracion en el fondo y esto es por el compuesto incoloro que se reduce, 
+
+patrones de tincion 
+distintos patrones de tincion se pueden mostrar y puede que no sean congruentes con la marca que se hace en el laboratorio
+hay que saber histologia para reconocer los patrones de buena manera, puede ser citoplasmatica membrana y extracelular
+
+inmunofluorescencia 
+
+permite ver varios antigenos en una muestra los fluoroforos no emiten fluorescencia sin ser excitados, por lo que puede ser visto por un microscopio de fluorescencia o 
+epifluorescencia para ver las muestras, estos microscopios tienen cubos de fluoresecncia solo pueden excitar determinados fluoroforos
+
+metodos directos e indirectos
+
+Inmunohistoquimica e inmunofluorescencia 
+
+la sensibilidad de inmunofluorescencia es mucho mejor a una inmunohistoquimica, la desventaja es que se pierde el contexto tisular, solo se ve una marca pero no se reconoce 
+el contexto tisular
+
+
+jcfriverac@gmail.com
+
+JCrivera
 
 
 
