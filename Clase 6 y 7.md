@@ -151,11 +151,80 @@ jcfriverac@gmail.com
 
 JCrivera
 
+# Clase 7: Antigenos y anticuerpos
+
+Antigenos pueden ser sustancias que pueden desencadenar una respuesta inmune especifica y posteriormente reaccionar con productos de la inmunidad
+
+puede ser Productos quimicos, bacterias, virus polen o estar dentro del cuerpo inlcuso metales pesados
+
+endogenos son antigenos que se han generado dentro de la celula como resultado del metabolismo celular normal o debido a una infeccion bacteriana - viral intracelular
+
+Exogenos son antigneos que han ingresado al cuerpo desde el ambiente
+
+Como se define un antigeno
+
+INmunogeno: antigneo que induce una respuesta inmumne especifica
+
+Tolerogeno: antigeno que induce tolerancia
+
+Alergeno antigeno que induce reaaccion alergica
+
+Anergia es el estado fisiologico en que las celulas son incapaces de ser activadas por un Ag. cuando los antigenos generan tolerancia se genera anergia 
+
+Caracteristicas de los antigenos inmunogenicidad a la capacidad que tiene un antigeno de activar el sistema inmune e inducir respuesta inmune
+
+antigenicidad la capacidad de los antigneos de combinarse conjugarse con anticuerpos y/o con receptores de celulas T TCR
+
+Hapteno: son particulas de antigenos que estan fraccionadas y que son conjugadas con una molecula carrier, no activa componentes inmunes por si solos
+
+El hapteno con el carrier puede generar una respuesta inmune se unen covalentemente, 
+
+Epitope, el antigeno puede ser una proteina gigante pero no toda la cadena es antigenica, hay epitopes que estan en la proteina que interacutan fisicamente con paratopos de mopleculas de respuestaa inmune y determinan la especificidad de l antigeno
+
+El antigeno depende de como este, su determinante conformaciona, determinante linear o determinante neoantigenico, creado por proteolico
+
+se debe saber cual es la estructura antigenicam, accesibilidad e higrofobia
+
+VIas de entrada de los antigenos. los microbios y antigenos proteicos pueden atravesar los epitelios son concentrados en los ganglios linfatico o al bazo si estaban en la sangre y aqui se forma una inmunidad
+
+se pueden encontrar 2 tipos de epitopes fundamentales de la inmunidad adaptativa, la produccion de anticuerpos por linfocitos B el epitope para las celulas B puede tener una conformacion lineal o no lineal, generalemtente existen en la superficie 
+
+Produccion de los anticuerpos  los linfocitos naive que tienen IgM+ IgD+ reconocen un antigeno y pueden ser ayudados por otros linfocitos en primer momento se generan los IgM despues de la proliferacion, en estapas mas tardisas se expresa IgG en este se puede haber cambios de isotipos y maduracion de los anticuerpos
+
+Como regla general tienen 2 cadenas livianas y 2 pesadas, dos regiones variables son importantes en el reconocimiento de antigenos la region Fab se une a una bacteria en un proceso llamado opsonizacion despues un macrofago puede reconocer esta marca y fagocitar
+
+Las estructuras entre IgG e IgM cambia los dominios Ig que son las partes del anticuerpo que determina que es lo que van a hacer y como van a actuar. El domino Ig se repite en muchas proteinas inmunes esta formada por 2 laminas b pegadas por puentes disulfuros que tienen alta estabilidad
+
+Un anticuerpo puede ser desarmado por papaina Una cistein proteasa separa los anticuerpos liberando las regiones Fab, tambien endopeptidasa pepsina puede desarmar toda la region Fc dejando solo la parte variable 
+
+5 tipos de isotipo
+
+IgG 2 sitios de union IgA 4 sitios de union dimero o monomero IgM forma pentameros y tiene 10 sitios de union IgD IgE
+
+avidez de antigeno se ve afectado por la cantidad de sitios de union que tiene siendo IgM uno de los con más avidez
+
+Los linfocitos B hacen uno u otro isotipo dependiendo de la activacion, cuando la activacion es complemento se produce IgM cuando hay opsonizacion y fagocitosis o activaicon complemento etc se activa IgG1
+
+Las celulas B se diferencian y proliferan para generar IgG IgM para generar inmunidad produciendose memoria, en una segunda infeccion hay una cantidad de anticuerpos much mas alta y tienen una memoria mas alta tambien porque se producen mas celulas de memoria
 
 
+La via clasica de activacion del complemento las inmunoglobulinas se unen al epitope del antigeno bacteriano de superficie, y deben haber 2 regiones Fc adyacentes o cercanas donde se unen proteinas del complemento para que el complejo de activacion sea activo se requieren 2 regiones Fc para las inmunoglobulinas M no es tan complicado porque tienen muchas regiones Fc cercanas donde se unen las del complememnto
 
+LOs anticuerpos policlonales son especificos para el antigeno pero por tamaño reconoce distintos epitopes de este antigeno y pueden haber varios epitopes que se reconozcan. Como hay muchos clones puede hacer que un clon genere anticuerpos de mayor afinidad que otro clon, esto peude llevarse al azar, puede se que se generen mas cantidad de anticuerpos pero lpuede que tengan menor afinidad.
 
+Ejemplo experimentaal
 
+anticuerpos antiepitope de oxidonitrico sintasa inducible, esta se produce de novo es inducible y se produce solo cuando se necesita
+
+en la fagocitosis el patogeno es degradado por especies reactivas de oxigeno, hay bacterias que han adquirido mecanismos para evadir la oxidacion, estas vias alternativas evitan las que son con especies reactivas de oxigeno, iNOS puede ser un marcador para este tipo de infecciones 
+
+Se pueden generar anticuerpos policlonales monoespecificos, esto se puede hacer dando el epitope especifico en un organismo y que genere anticuerpos 
+
+hidrofilicidad y antigenicidad son cosas importantes que se deben evaluar en un anticuerpo, un anticuerpo mas hidrofilico esta mas expuesto 
+
+accesibilidad puede dar que peptido es mas accesible que tan hacia afuera de la molecula esta, entonces hay que asegurarse que en caso de tener la molecula completa este anticuerpo reaccione cuando detecte la molecula completa.
+
+los antigenos con alfahelice tienen mejor afinidad que los betaplegadaa por eso al ponerlo en el espectrofotometro a 200nm mas o menos hay una guata en el grafico.
 
 
 
