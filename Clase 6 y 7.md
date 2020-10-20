@@ -226,10 +226,134 @@ accesibilidad puede dar que peptido es mas accesible que tan hacia afuera de la 
 
 los antigenos con alfahelice tienen mejor afinidad que los betaplegadaa por eso al ponerlo en el espectrofotometro a 200nm mas o menos hay una guata en el grafico.
 
+# Clase 8
+
+El sistema inmune tiene un rol de proteccion y bajo ciertas circunstancias ataca al propio organismo como en la autoinmunidad
+
+Facores contribuyen las respuestas autoreactivas estos factores no son del todo claroes pero tienen un quiebre de la autotolerancia en un punto. Cuando se habla de tolerancia es cuando el sistema inmune se educó para reconocer que es del organismo esto desencadena las enfermedades autoinmunes, este proceso de autotolerancia es un mecanismo en el cual los linfocitos ingresan a la universidad y aca son educados para reconocer lo que es propio de lo que no es propio
+
+SI estos linfocitos pueden hacer la diferencian pasan a ser aprobados, son linofictos funcionales, en caso de que no se reconozca son eliminados en un proceso de apoptosis o anergia (quedan inactivados, no funcionales, estaticos)
+
+Este proceso comienza en los organos linfaticos primarios a estos linfocitos naive se le presentan distintos tipos de antigenos (autoantigenos), según el reconocimiento pueden suceder distintos procesos una opcion es de apoptosis otra opcion es que los linfocitos (en caso de los B) editen su receptor , en caso de los T CD4+ reacciona, pasa a ser ujna T reguladora y se suprime
+
+Para quienes pasan la primera tolerancia van a otra presentacion de autoantigeno en la cual se genera o anergia, supresion o apoptosis
+
+Queremos que elsistema inmune reconozca patongeno y lo elimine en caso de la inflamacion, esta si no hubiera alguien quien regule se mantendría infinitamente hasta mantener un sistema no apto para la vida
+
+hay un peak de inflamacion y luego un declin, aqui es donde actuan lo linfocitos t reguladores
+
+Estos regulan la funcion de regular la accion de los demas linfocitos luego de una inflamacion
+
+DEntro del mecanismo mas descrito es la liberacion  y produccion de citoquinas antiinflamatorias TGF-beta(aumenta la proliferacion de T reg) IL-10 IL-35 que bajan la acción de una T efectora, 
+
+Otro mecanismo es citolisis se pone granzimas y perforinas a una celula efectora y entra en apoptosis
+
+Disrupcion metabolica el Treg CD25+ es un receptor que tiene afinidad por Il-2(la citoquinas que da señal de proliferacion a los efectores), capta la citoquina y la internaliza, depleting el medio de las citoquinas
+Tambien piuede capturar adenosina y evitar la proliferacion
+
+Las celulas dendriticas tambien son inhibidas por Treg, los cuales bloquean la respuesta inmune mediante un metabolito liberado por la DC
+
+SI los Treg no tiene capacidad de suprimir la funcion de los T efectores es como sacarle frenos al auto 
+
+IPEX: inmunodeficiencia p ligada a X Foxp3 es el factor de transcripcion maestro de los T reguladores, es clave para la sobrevida de los sujetos, el tiempo de vida en los animales controles WT que presentan Foxp3 tienen 100% de sobrevida, 
+cuando este esta knockout, comienzan a fallecer los animales desde el día 10 muriendo todos el día 20
 
 
+Foxp3 ausente se desencadena un daño inflamatorio, en un ensayo se colocan Treg vs Teff en un cultivo y se ven la capacidad de proliferar en un cultivo
+
+Si hay una proliferacion elevada no hay supresion, si hay mas supresion eso quiere decir que hay algunos Treg funcionando
+
+LA presencia de Foxp3 es imprescindible para que se haga la funcion reguladora entonces si estos linfocitos no estan haciendo su funcion adecuadamente eso desencadena la autoinmunidad, pero en realidad estas respuesta autoinmunes se pueden dar por varios factores 
+
+sitios de privilegio inmunitario los cuales tienene su propio ambiente que no esta conectado
+
+Cerebro
+
+Ojos 
+
+Testiculos
+
+Utero (feto)
+
+Saco del carrillo del hámster
+
+El sistema inmune no conoce lo que estA esta parte, cuando se exponen partes de estos sistemas al sistema inmune se genera una respuesta, como el sistema no tiene tolerancia hacia esto se reconoce como antigeno exogeno y se presenta antigeno a nivel de tejido linfoide secundario y se desencadenará una respuesta autoinmune
+
+en caso de encontrarse con estos antigenos en otros lados los linfocitos actuan despues en generar una respuesta contra este tejido que tenia privilegio inmune
+
+frente a una infeccion se estimula la respuesta inmune, el linfocito que esta con una carga genetica que no tiene autotolerancia reconoce la presentacion de antigeno como exogena y genera respuesta autoinmune en las celulas
+
+Enfermedades inflamatorias intestinales, inflamatory bowel disease esta enfermedad es multifactorial tiene como desencadenado la genetica, la microbiota , inmunología y la histología, estas enfermedades tienen caracteristicas autoinmunes y la fisiopatologia de sta enfermedad 
+
+EL sistema inmune juega un rolque desencadena las estructuras del sistema digestivo la microbiota intestinal tiene un rol importante.
+
+La dieta tambien influye no solo en la composicion de la microbiota sino tambien en daños causados pordietas basadas en comidas procesadas
+
+Las enfermedades son la enfermedad de crohn, colitis ulcerosa, colitis indeterminada (estado momentaneo de la enfermedad donde no se diferencia)
+
+LO unico que poseen en comun es que ambas afectan al intestino, la dieta es imporatnte, el sistema inmune y la genetica del paciente, en realidad son distintas, se generan distintas estructurasen la enfermedad,  en la enfermedad de crohn hay como un engrosamiento de las capas absesos, no solo eso esta patologia se presenta en todo el tracto digestivo, desde la boca al ano.
 
 
+colitis ulcerosa afecta el ileon
+se hace quehayan ulceraciones en el colon, se disminuye el tamaño de las paredes
+
+la mayor incidencia de la colitis en los paises desarrollados, cada vez se hace mas temprana la deteccion de la enfermedad esto quiere decir que cada vez gente mas joven tiene esta enfermedad y la tendrá por toda la vida
+
+ademas estas enfermedades tienen periodos de desarrollo, controladas y desarrollo, este estres inflamatorio que se desencadena aumenta la probabilidad de desarrollar distintos tipos de cancer a nivel del tubo digestivo, ademas el desarrollo de cancer colorectal aumenta con la cantidad de años con la enfermedad
+
+la incidencia es alta, la sintomatologia puede ser diarrea, 10 veces al mismo día dolor abdominal, por el daño del intestino se pueden encontrar diarrea con sangre, con esto tambien se puede atribuir al daño los factores ambientales predisposicion genetica disbiosis y daño en la barrera epitelial, tambien fallas en el sistem ainmune.
+
+las celulas de paneth mantienen la poblacion bacteriana en el intestino y que tienen un rol protectivo, si estas disminuyen la funcion no se liberan moleculas que mantienen el control y puede sgenerarse disbiosis por la sobrepoblacion de bacterias
+
+el epitelio dentro de las funicones es generar una barrera entre el medio externo y el medio interno si el epitelio de daña se genera ingreso de las bacterias a la lamina propia desencadenadndo una repsuesta inmune, cuando la inflamacion es de tipo cronica hay una generacion mayor de los Th1 - Th17 quienes participan en el desarrollo de la enfermedad de crohn.
+
+Mientras que Th2, 9 y 17 tienen influencia en la generacion de  la colitis ulcerosa
+
+UNa de las formas mediante las que se explica las ibd en un tejido normal tenemos el lumen del intestino, capa de mucus, bacterias despues la barrera epitelial, celulas calciformes y celulas de panneth y celulas del sistema inmune atentas a la accion inmune
+
+Existe un daño epitelial y expone la lamina de los individuos a las bacterias y con ello se desencadena una respuesta inmune, este tipo de daño en una enfermedad IBD se puede simular utilizando DSS que aumenta la permeabilidad de la barrera epitelial, el estres oxidativo tambien aumenta en las enfermedades IBD por las celulas del sistema inmune y epiteliales que llevan al daño por la enfermedad 
 
 
+las IBD tienen caracteristicas de enfermedades autoinmunes, y hay expresion diferencial en CD y en UC 
 
+dentro de los genes que tienen un aumento en la expresion estan TAP1 y TAP2 tanto en Crohns disease como en colitis ulcerosa
+
+aumenta en enfermedades autoinmunes esta expresion diferencial tambien hay proteinas receptoras de membrana que se ven aumentadas.
+
+TLR4 LBPtambien estan aumentados, autoinmunidad (TAP1 y TAP2) vs tolerancia al microbioma (TLR4, LBP)
+
+autoanticuerpos deben haber anticuerpos en los apcientes y en colitis ulcerosa si existen, en el analisis de 100 pacientes se detectaron anticuerpos antienolasa, y anca (anti nucleares)
+
+efectivamente hay presencia de estos anticuerpos 
+ bajo este concepto, es una enfermedad autoinmune hay eventos que son autoinmunes y eventos que son mediados por el sistema inmune como una respuesta normal
+ 
+ que es lo que hacen en el lab con el profe JCR. Glandula tiroides 
+ 
+ hipotiroxinemia, niveles normales de T3 y niveles bajos de T4, es asintomatico, esta es causado por desbalance de consumo de iodo bajo iodo lleva a hipertiroxinemia. un excesivo consumo de iodo activa una respuesta autoinmune parecida a la respuesta de la enfermedad de hashimoto lo cual desencadena menos niveles de T4 y se puede generar hipotiroxinemia
+ 
+ Prevalencia alta entre 3-26% en el mundo varia por presencia o ausencia de productos del mar
+ 
+ Asintomatica, no se diagnostica
+ 
+ HTX es 150 veces mas alta en la poblacion que el hipotiroidismo congenito
+ 
+ 70% de la poblacion chilena con enfermedades tiroideas tiene hipotiroidismo subclinico
+ 
+ 28% de las mujeres en chile tiene hipotiroidismo, 3% de las mujeres embarazadas tienen hipotiroxinemia 
+ 
+ en el embarazo el feto hasta las 32 semanas de gestacion no hay produccion de hormonas tiroideas y deben ser suplidas por la madre, ademas T4 es la unica hormona tiroidea que puede atravezar la barrera epitelial
+ 
+ COmo consecuencia hay menor desarrollo cognitivo del hijo y del sistema inmune
+ 
+ Para la madre es asintomatico pero el feto en crecimiento es quien se ve alterado hay alteraciones en la respuesta inmune, se genera mas inflamacion, los sintomas clinicos de IBD se ven muy aumentados
+ 
+ hay una disminucion de los tight junctionque disminuye la union celula a celula teniendo alteracion en la permeabilidad de la barrera epitelial del intestino, hay desbalance de las caracteristicas infamatorias y respuesta inmune, tambien hay capacidades inmunoregulatorias que disminuyen
+ 
+ los animales bajan de peso rapidamente, a excepcion de las hembras del experimento, hay dimorfismo sexual el cual no solo esta dado por estructura fisica sino tambien por la susceptabilidad por desarrollar algunas enfermedades.
+ 
+ la progenie con hipotiroxinemia tienen un desarrollo mas rapido de la enfermedad y es más alto
+ 
+ histologicamente el daño evaluado a los 6 dias de tratamiento se toma el colon de los animañles se divide en proximal, medio distal y despues se evalua parametros como ccriptitis como neutrofilos en el epitelio
+ microabsesos que estan neutrofilos en el lumen, ulceracion granulomas y erosion
+ 
+ porque es que la progenie que tiene HTX tienen mayor severidad y mas rapido desarrollo de la enfermedad es lo que se quiere estudiar. SI efectivamente es la disminucion de los Treguladores que generan este desarrollo de la enfermedad
