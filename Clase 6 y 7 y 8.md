@@ -357,3 +357,7 @@ efectivamente hay presencia de estos anticuerpos
  microabsesos que estan neutrofilos en el lumen, ulceracion granulomas y erosion
  
  porque es que la progenie que tiene HTX tienen mayor severidad y mas rapido desarrollo de la enfermedad es lo que se quiere estudiar. SI efectivamente es la disminucion de los Treguladores que generan este desarrollo de la enfermedad
+ 
+ # CLase 8
+ 
+ 
