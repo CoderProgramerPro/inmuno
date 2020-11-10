@@ -360,4 +360,70 @@ efectivamente hay presencia de estos anticuerpos
  
  # CLase 8
  
+ FoxP3 como marcador de los reguladores, cuando estan reducidos estos marcadores hay menor inmunosupresion
+ 
+ los linfocitos T reg y FoxP3 son improtantes para la funcion reguladora
+ 
+ FoxP3 es importante para el fenotipo regulador
+ 
+ ctla 4 es un marcador que esta en los linfocitos de las celulas t reguladoras (proteina de membrana que participa en la funcion supresora)
+ la presencia de Fox P3 en los linfocitos t reguladores son imporantes en los linfocitos que tienen fucnion supresora 
+ 
+ La viabilidad de (porcentaje de sobrevida) es impaired cuando foxp3 no esta presente, CTLA4 no es la unica proteina que producen los T reguladores, y por esto las poblaciones negativas para CTLA4 pueden tener una sobrevida mas alta (redundancia)
+ 
+ Metabolismo celular de los linfocitos
+ 
+ es importante saber de donde sale la energia para poder saber como se realiza la funcion inmune, la fuente es importante en este contexto, centrandose en lo T reg
+ 
+ Cuando la celula inmune quiere hacer una funcion que esta relacionada con respuesta inmune se requiere energia que viene desde la alimentacion generalmente, degradando moleculas que tienen la energia necesaria para la sintesis de moleculas. Para los linfocitos
+ 
+ En la oxidacion de la glucosa normal rinde 38 moleculas de ATP por molecula de glucosa
+ 
+ En condiciones anaerobicas se obtiene energia de manera de la glicolisis con un rendimiento de 2 moleculas de ATP, razon por la cual cuando no estamos acostumbrados a hacer ejercicio hay cansancio
+ 
+ Existe una diferencia de fuente de energia en los linfocitos efectores vs los reguladores, los efectores para su funcion inflamatoria obtienen energia de la glicolisis, mientras que los LT reguladores obtienen su energia desde la beta-oxidacion de los acidos grasos y la fosforilacion oxidativa
+ 
+ La razon es que los LT efectores deben proliferar tan rapido para actuar que la generacion de energia es por glicolisis y luego oxidacion de la glucosa, proceso rapido con alto rendimiento energetico
+ 
+ los linfocitos T reguladores que tienen funcion inmunosupresoras se obtienen acidos grasos del medio extracelular y se va a la mitocondria para pasar a la mitocondria, un aumento de Fox p3 aumenta la expresion de la cadena transportadora de electrones, la glicolisis en los linfocitos T reguladores se encuentra disminuida
+ 
+ La mitocondria su improtancia para LT reg cuando alteramos la cadena transportadora de electrones con un knockout en ratones tenemos un fenotipo inflamatorio muy similar a aquel fenotipo que encontramos cuando tenemos un knockout de Foxp3 en ratones
+ 
+la cadena transportadora de electrones es importante para la funcion reguladora
+
+si comparamos distintos linfocitos T efectores como los Th2 vs los Treg y se ve la fosforilacion de la AMPK los T reg tienen aumento de la fosforilacion de esta proteina. Se ve tambien que en los linfocitos Naive, Treg nativos e inducidos se ven mas aumentadas en los T reg esta proteina fosforilada
+
+Lo que se observa en citogramas tambien es que los Treg tienen mayor potencial de membrana y con ello mayor funcion de la mitocondria
+ 
+ rotenona inhibe la cadena transportadora de electrones
+ 
+ etoxomir evita el transporte de acidos grasos al interior de la mitocondria evitando la oxidacion de los acidos grasos
+ 
+ rol de fox p3 en la funcion mitocondrial, fox p3 esta corelacionado con la produccion de las especies reactivas de oxigeno (ros) que son producidas principalmente en la mitocondria
+ 
+ la glucosa es importante para la proliferacion de los T reguladores, no asi a su funcion. La glucosa es la fuente de energia para proliferar, los ac grasos son para la funcion inmunosupresora
+ 
+ a pesar de tener citoplasma escaso los t reg almacenan acidos grasos en el citoplasma
+ 
+ 
+ Los Treg tienen ingreso de glucosa por el receptor glut1 y este esta diminuido en comparacion con el receptor en T efectoras
+ 
+ la produccion de citoquinas proinflamatorias se ve disminuida cuando esta knockout el receptor GLUT1, mientras que fox p3 no disminuye 
+ 
+ hif 1 alpha induce la degradacion de Foxp3 cuando Hif 1 alpha factor de transcripcion inducido por hipoxia no se encuentra aumenta la poblacion que tiene el marcador Foxp3, mientras que los niveles de mRNA de Foxp3 se mantienen iguales
+ 
+ Hif 1 alpha de alguna manera regula a Foxp3, como no cambia sus niveles de mRNA algo pasa con la proteina, esto puede demostrar que Hif1 alppha promueve la degradacion atraves del sistema ubiquitin proteosoma.
+ 
+ En EAE (modelo de esclerosis multiple en animales) el score clinico cuando Hif1 alpha esta presente aumenta y luego se mantiene, mientras que cuando esta ausente simplemente no se desarrolla la enfermedad, esto es porque Foxp3 aumenta en el SNC(sistema nervioso central), esto explica que no se desarrolla la enfermedad autoinmune
+ 
+ Entre la glicolisis y la funcion mitocondrial hay una regulacion, mas glicolisis menos funcion mitocondrial
+ 
+ lo que se plantea es que en un estado de funcion normal de los T reg la funcion mitocondrial de la cadena transportadora de electrones esta en un estado funcional, incluido fox p3 incluso mayor expresion de proteinas de membrana que tienen funcion inmunosupresora, en cambio cuando la glicolisis aumentam disminuye la via Foxp3 
+ 
+ hay un balance entre la autoinmunidad y la infeccion mucho de autoinmunidad poca infeccion y viceversa, el control de cualquiera de los dos estados altera el otro.
+ 
+ se puede reprogramar el metabolismo en el cuerpo, con CG-5 que es un farmaco que inhibe la glicolisis, esto aumenta celulas foxp3+ y con esto aumenta la funcion inmunosupresora
+ 
+ se pueden usar drogas para aumentar la funcionalidad y el numero de treguladoras de pacientes que sufren de enfermedades autoinmunes
+ 
  
