@@ -426,4 +426,83 @@ Lo que se observa en citogramas tambien es que los Treg tienen mayor potencial d
  
  se pueden usar drogas para aumentar la funcionalidad y el numero de treguladoras de pacientes que sufren de enfermedades autoinmunes
  
- 
+
+# Clase inmuno 11
+
+Inmuno metabolismo e interaccion hospedero-patogeno
+
+hay 4 partes 
+
+Reconocimiento del patogeno PAMPs que son detectados por receptores de superficie
+
+ACtivacion metabolica: Metabolic Reprograming donde se produce mas glicolisis desregulacion de la mitocontria, HIF1alpha, señalizacion por succinato
+
+Limieza de la infeccion bacterial killing porduccion de ROS 
+
+Inmune evasion: lung chronic infection Cystic Fibrosis CF Psudomnas aerugenosa
+
+Metabolismo son los procesos quimicos que se producen para mantener la vida
+
+ATP Energia es lo primero que viene a la mente
+
+ocurren 2 procesos simultaneos en los que se basa el metabolismo, anabolismo y catabolismo
+
+Metabolismo asociado a la respuesta inmune. 
+
+Son otro tipo de reacciones quimicas que generan metabolitos de defensa, se conoce esto como el inmunemetabolismo
+
+como se protege de infecciones especificamente de bacterias 
+
+se producen distintos tipos de procesos metabolicos en el macrofago, como los metabolitos llevan a la destruccion de las bacterias,
+
+un macrofago en estado de reposo esta con el metabolismo normal, las celulas inmunes en reposo usan la mitocondria principalmente para generar energia, los macrofagos necesitan la mitocondria 
+
+que sucede 
+
+La cadena transportadora de electrones produce intermediarios como NAD+ que transforma alpha cetoglutarato en succinil coa ytambien esta FAD que transforma succinato a fumarato
+
+Los electrones tienen que ir hacia el complejo 4 donde se unen a O2 y generan agua el complejo 5 genera ADP y ATP a partir de la fuerza generada por 
+los protones que se generan en el espacio intermembrana fosforilacion oxidativa
+
+cuando los macrofagos detectan las bacterias PAMPs, patrones moleculares dan el reconocimiento para distintos patogenos, toll like receptors TLR4 detectan LPS que esta en la membrana externa de las bacterias, como tambien existen LPS soluble que estan en circulacion
+Tambien existe la flagelina que permite el movimiento de la bacteria y es reconocido por TLR5 generando activacion de macrofagos
+tmabien hay
+
+TLR3 TLR7-8 que detectan dsRNA y ssRNA de virus y TLR9 que detecta DNA y CpG de bacterias en los endosomas
+
+cuando el macrofago esta activado se aumenta la glicolisis 
+
+Tecnología Seahorse que es que celulas en medio de cultivo que se leagregan un electrodo (pHimetro) y va a detectar si se produce protones, la glicolisis es quien produce mas protones, la glicolisis resulta en piruvato el cual luego se separa en lactato y quese secreta y desprotona, mientras aumenta la glicolisis aumenta el ECAR = extracellular acidification rate, cuando se agrega oligomicina se aumenta la glicolisis, 2Deoxiglucosa se une a la enzima que pasa fructosa 6 fosfato a 1.6FBP la tasa de consumo de oxigeno se aumenta con mayor flujo de electrones, 
+
+si medimos la tasa de consumo de oxigeno, si inhubimos la produccion de ATP en el complejo 5 baja el consumo de oxigeno, los cambios metabolicos de glicolisis y fosforilacion oxidativa se pueden ver con estas pruebas
+
+La glicolisis se puede ver que se aumenta cuando se agrega LPS, el OCR (consumo de oxigeno )no cambia mucho pero eso no significa que no se este haciendo nada en la mitocondria
+
+Las celulas dendriticas se ven cambios metabolicos del mismo modod se ven que LPS aumenta y OCR no cambia, pero nuevamente no es que la mitocondria no este haciendo nada 
+
+para confirmar que la mayor ECAR esta relacionada al aumento de la glicolisis se ve la produccion de lactato y el consumo de glucosa, que efectivamente aumenta 
+
+el cambio en la mitocondria es que la mitocondria ya no esta produciendo ATP esta produciendo otra cosa, ya que no tiene sentido que la glicolisis 
+
+LA mitocondria inhibe e,l paso de malato a oxaloacetato y el isocitrato va a otra via biosintetica, el ciclo de krebs se corta a la mitad y se suplementa succinato desde una via distnita que es de GABA, viene de la captura de glutamina, durante esta el reconocimiento de LPS los macrofagos acumulan succinato, durante la infeccion esto esta asociado  
+
+La isocitrato se va a una via antiinflamatoria (itaconato) que regularan la respuesta anti inflamatoria, si no se genera este balance se puede generar una enfermedad autoinmune..
+-
+
+la mitocondria acumula succinato para que le sirve al macrofago generar succinato, 
+
+Cuando se genera el ATP en la cadena de electrones se produce con el LPS un exceso de electrones en el complejo 1 q
+
+cuando los macrofagos reconocen el LPS cuando llegan a la parte del succinato deshidrogenasa (como se acumula) los electrones van al complejo 1 para generar ROS, lo cual genera una estabilizacion de Hif1 alpha lo que causa que este no se degrade por ubiquitinacion
+
+IL-1beta al parecer se ve aumentado por la estabilizacion del factor HIF1-alpha
+
+El hospedero si no genera IL-1beta produce un aumento de 10 veces mas la cantidad de bacterias que se acumulan e n los tejidos, los ratones mueren mas rapido si son deficientes de IL-1Beta quien ayuda a matar la bacteria (gram negativa en este caso ya que estamos evaluando la respuesta frente al LPS)
+
+FIbrosis quistica es una enfermedad genetica que es muy mortal, la esperanza de vida en chile es de un maximo de 20-25 años, esta enfermedad esta asociada a una mutacion en un transportador de cloruro y carbonato expresasdo altamente en el pulmon, mientras secreta cloruro otros transportadores transportan agua para mantener el equilibrio, mientras que las personas con CF no pueden hidratar los pulmones, de esta manera se secan los pulmones y se obstruyen, en estos pacientes se ve tambien desregulaciones patologicas en el pancreas y en los intestinos.
+
+los pacientes con fibrosis estan muy inflamados y acumulan mucha IL-1beta y ROS, lo que en realidad podria generar mas proteccion, pero e4sto no es lo que pasa, en los pulmones de los pacientes con CF se infectan mas con **Psudomonas aeruginosa** esto puede pasar por varias razones, como que se forma un biofilm barrera fisica, manipulacion del sistema inmune
+
+Pseudomonas usa como principal fuente de carbono el succinato, la bacteria vive mejor cuando los macrofagos se activan, se secreta succinato y las pseudomonas viven felices por eso (son bacterias extracelulares) el succinato se acumula 10 veces mas en los pacientes de fibrosis quistica, la bacteria tiene una capacidad metabolica que genera que viva con mayor felicidad en la activacion del succinato, las bacterias se mantienen cerca de 40 años en el pulmon debido a esto
+
+psudomonas induce los cambios metabolicos en el macrofago que generan el combustible 
