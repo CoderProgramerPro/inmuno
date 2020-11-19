@@ -506,3 +506,85 @@ los pacientes con fibrosis estan muy inflamados y acumulan mucha IL-1beta y ROS,
 Pseudomonas usa como principal fuente de carbono el succinato, la bacteria vive mejor cuando los macrofagos se activan, se secreta succinato y las pseudomonas viven felices por eso (son bacterias extracelulares) el succinato se acumula 10 veces mas en los pacientes de fibrosis quistica, la bacteria tiene una capacidad metabolica que genera que viva con mayor felicidad en la activacion del succinato, las bacterias se mantienen cerca de 40 años en el pulmon debido a esto
 
 psudomonas induce los cambios metabolicos en el macrofago que generan el combustible 
+
+
+# Clase 12 Inmunologia en peces
+
+En peces es el primer phylum donde aparecio el sisetema inmune adaptativo
+
+la defensa en otros organismos menos evolucionados en la inmunidad innata
+
+Estos son muy antiguos en los vertebrados ya hay linfocitos, tanto en peces mandibulados como peces sin mandibula, solo en los vertebrados mandibulados habia un TCR y un BCR, y este es el sistema adaptativo del que hablamos hoy en dia en los peces sin mandibula no se ve el sistema inmune como se conoce actualmente, 
+
+los linfocitosen peces no mandibulados como en hagfish y lamprea hay un receptor similar a BCR y TCR, y no se sabe si hay presentacion antigenica o no y si hay enzimas que le dan diversidad pero es distinta a la quie se ve en peces mandibulados,
+los VLR que tienen estos peces tienen modulos, los dominios que son de union al antigeno que varia es ek LRRCT tiene cierta variacion pero no es tan grande como la que tienen los peces mandibulados hacia adelante, tienen esta especificidad por los antigenos
+
+si comparamos en general, dentro de los peces no mandibulados hay 2 tipos de celulas que son similares a los linfocitos T (VLRC) y que son similares a linfocitos B (VLRB), tambien se encuentran estructuras similares a una inmunoglobilina M  que secretan los VLRB
+
+segun las citoquinas que se conservan se ven que tienen como una funcion equivalente a la que se ve en el sistema inmune que conocemos adaptativos en los mamiferos
+
+En los peces mandibulados y los mamiferos hay receptores de antigenos que son distintos en secuencia TCR(alpha-beta y gamma-beta) y BCR hay estructuras similares en cuanto a anticuerpos similares a IgM y tambien hay complemento pero no se sabe si hay presentacion antigenica porque no hay moleculas de histocompatibilidad pero este sistema que conocemos no necesariamente es el que es mas funcional, es posible que haya otra molecula en los no mandibulados que funciona de esta misma manera pero con una estructura y secuencia distinta
+
+Los organos linfoides son donde los linfocitos se pueden diferenciar y proliferar, tienen timo, bazo y riñon, como tambien mucosas en los organos linfoides secundarios se encuentra la presentacion antigenica en mamiferos.
+
+no hay organos linfoides secundarios que este organizado en peces, los lungfish si tienen organos linfoides secundarios lo que quiere decir que en esta linea la evolucion lleva a esto, los salmones tambien tienen organos linfoides secundarios en sus agallas,  faltan estudios para determinar que son organos linfoides secundarios con una funcion similar a la que existe en mamiferos
+
+el pez cebra sigue siendo un modelo para estudiar la evolucion de la inmunidad vertebrada.
+
+estudios de respuesta inmune en peces, como no hay organos linfoides secundarios oficiales, excepto en los ejemplos anteriores, que hay agregaciones que son correspondientes a estos tejidos
+
+Tipos de respuesta inmune en peces, la respuesta innata o no especifica tiene la primera linea de defensa que es una de las mas importantes para evitar infecciones en peces,  
+
+la respuesta especifica es aquella que es especifica a los patogenos, no necesariamente la mas eficiente
+
+dentro de las dos respuestas estan la respuesta inmune humoral, celular y mucosal, tambien en peces tenemos las mismas divisiones que en mamiferos, como tambien los mismos anticuerpos IgA es el anticuerpo de las mucosas (en mamiferos) tambien hay otros anticuerpos que pueden ser IgZ/T (son lo mismo), tambien tenemos IgD se sabe poco de estas pero tienen caracteristicas simialres en peces y mamiferos, tienen parte de la molecula que los une a membrana pero tembien tienen estas que son secretados como IgM 
+
+A nivel de anticuerpos es muy similar, IgE, IgG e IgA no se encuentra en peces, mientras que ellos en las mucosas tienen IgZ/T
+
+en citoquinas en mamiferos y peces los unicos que se puede decir es que en los peces ocurrio una duplicacion del genoma y hay mas copia del mismo gen y hay mas miembros de una familia pero son las mismas, pero denro de las familias de las quimioquinas tenemos unas distintas en peces, los numeros de quimioquinas en humanos y peces cebra los peces tienen el doble, y no tienen el doble de receptores, no siempre hay un multiplo de 2 en citoquinas y quimioquinas
+
+sistema inmune mucosal en mamiferos
+
+la mucosa es la respuesta inmune que se gatilla en todas las mucosas, la mucosa es una extension de la piel, la mucosa va a ser la extension que cubre el tracto gastrointestinal y no solo es el epitelio, tiene una capa epitelial, capa de tejido conectivo (lamina propia) y una capa delgada de musculo. Esto es la mucosa, aqui hacia el lumen con respescto al epitelio hay una capa de mucus, y es aca donde se albergan las bacterias de las microbiota y las levadura y otros componentes de la microbiota, en la lamina propia hay un nodo linfatico que es un organo linfoide secundario y es aqui donde hay presentacion antigenoica en mamiferos, estos tienen una organizacion celular bien definida, la respuesta inmune es organizada.
+
+las principales funciones de la mucosa es proteger de la colonizacion de patogenos para proteger, prevenir la absorcion d eproteinas extrañas nocivas e inducen la tolerancia local y sistemica frente a antigenos inocuos, para ello el sistema inmune debe detectar que no son patogenos y que desarrolla una funcion tolerogenica. en ausencia de patogeno el sistema esta muy activo, en homeostasis hay una respueta inmune tolerogenica la inmunidad sistemica funciona en un ambiente mas menos esteril cuando se detecta un cuerpo extraño se da una resputa inflamatoria, el MALT debe reconocer la naturaleza de los antigenos detectados y asi inducir una respueta inmune tolerante o inflamatoria
+
+la respueta inmune en las mucosas es local y no sistemica, no se pueddegatillar una respuesta tolerogenica en todo el sistema, en la boca no puede haber las mismas bacterias que en el tracto digestivo, cuales son los tejidos mucosales, (MALT: tejidos linfoides asociados a mucosa) son divididos dependiendo de la zona GALT intestino NALT nasal y BALT broquios y Urogenital
+
+en los organos linfoides de GALT tenemos las celulas de Peyer y los nodulos linfaticos mesentericos que es aca donde estan los linfocitos Naive. Los sitios inductores son donde esta detectaando antigeno y seinduce una resputea, y los sitios efectores es donde se trata de eliminar el antigeno, debe estar cerca, para ir a eliminar el patogeno en este lugar
+
+el galt organizado, son donde estan las placas de peyer y son donde se localizan los tipos celulares, es por las celulas M del epitelio que las bacterias son detectadas, tambien hay un GALT difuso que tiene celulas linfoides que estan repartidas en el epitelio, de manera libre, 
+
+el atnigeno debe ser reconocido por las celulas, entonces las celulas deben ser permeables tambien los epitelios pueden captar el antigenos y los llevan a fagocitos mononucleares quienes procesan el antigeno, es una union que es estable y esta mediada por moleculas de adhesion, la celula inmune como el epitelio expresan porteinas de adhesion y se forma un complejo entre el epitelio y las celulas presentadoras de antigenos sin romper la inpermeabilidad de la capa epitelial.
+
+las celulas goblet tienen una funcion que es esencial para captar antigenos que son solubles no fraccionados
+
+los APC pueden migrar al nodo linfatico mesenterico y presentar el antigeno a los T NAIVE o presentaar en forma local en las placas de peyer
+
+una vez activados los T tenemos dos situaciones, si se detecta un antigeno de patogeno hay produccion de IgA e IgM que es transportado al mucus y tambien se tiene inmunidad gatillada por linfocitos T citotoxicos y helper que viajan de vuelta y generan mas produccion de anticuerpos y destruccion del patogeno.
+
+La otra posibilidad es que el antigeno no sea nocivo y en estas situaciones hay un reconocimiento de antigeno y una migracion al nodulo, en vez de respuesta inflamatoria tendremos una respuesta tolerogenica
+
+La tolerancia Oral es gatillada por antigenos solubles que se caracteriza por la induccion de la respuesta localmente, en toda la mucosa y el organismo, 
+
+Tolerancia oral que se gatilla cuando se ingiere un antigeno soluble. se detecta que no sea un patogeno y en el intestino grueso se genera la tolarancia a la microbiota.
+
+Un antigeno en via oral en altas concentraciones la union es distinta porque las moleculas de coestimulacion son distintas, entonces la respueta en ausencia de coestimulacion o presencia de ligandos inhibidores generan anergia o delecion en los coestimulaores,respectivamente
+
+EN presencia de bajas dosis de antigeno oral se activan las celulas T reguladores que suprimen las respueta sinmiunitarias mediante la accion de las citoquinas IL-10 y TGF-beta que llevan a una respuesta de supresion
+
+La respuesta inmune proinflamatoria con presentacion de antigeno es en presencia de CD80 y CD 86 
+
+MECANISMO MOLECULAR actual de la generacion de la tolerancia oral, los macrofagos CX3CR1+  si es otro macrofrago gatilla respuesta inflamatoria, mientras que ocurre en lo mismo en las celulas dendriticas que sea CD 103+ que viaja al nodulo mesenterico y se lo presenta a los linfocitos T naive. si migra otra celula dendritica que no sea CD103+ genera una respuesta inflamatoria, de esta forma cuando se presenta antigenos por CD103+ se generan celulas T reguladoras que se proliferan y generan tolerancia inhibiendo Th2 y otras celulas proinflamatorias.
+
+La microbiota favorece la tolerancia oral
+
+las vacunas pueden ser por inyeccion y que pueden ser intraperitoneal e intramuscular, donde todos los organismos reciben la misma docis
+
+La vacunacion por inmersion se puede hacer por baño y por dip donde se van los peces a sumergir en una solucion con alta concentracion de la vacuna.
+
+La vacunaciòn oral puede ser una solucion que hay vacunacion por la comida, la vacuna puede ir mezclada con la comida, lo que puede generar una respuesta tolerogenica oral
+
+la tolerancia es algo importante, se puede generar una tolerancia en una vacuna oral, de forma que en realidad no  habra repsuesta frente a una infeccion
+se puede generar una respuesta que sea proinflamatoria si se agrega una capside de microalga por ejemplo para engañar el sistema inmune y poder efectuar una respuesta inflamatoria 
+
