@@ -122,9 +122,9 @@ Desde aca estas pueden diferenciarse en uno de los 3 subsets
 + T helper (Th o CD4+)
 tienen función efectora que produce citoquinas
 
-+ T regulatoria (Treg o CD4+, CD25+)
++ T regulatoria (Treg, CD25+)
 
-+ T Citotoxicas (Tc, ctl o CD8+)
++ T Citotoxicas (Tc CD8+)
 mata células tumorales o células infectadas por algún virus o microbio
 
 todas las células T helper tienen CD4+ que esta en su membrana y pueden diferenciarce en
